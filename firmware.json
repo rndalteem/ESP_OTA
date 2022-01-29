@@ -1,6 +1,0 @@
-{
-    "type": "esp32-fota-https",
-    "version": "0.0.1",
-    "url": "https://raw.githubusercontent.com/rndalteem/ESP_OTA/main/ESP_FOTA.ino.esp32.bin",
-    "check_signature": false
-}
