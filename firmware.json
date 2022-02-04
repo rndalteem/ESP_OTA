@@ -1,6 +1,6 @@
 {
     "type": "esp32-fota-https",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "host": "raw.githubusercontent.com",
     "port": 443,
     "bin": "/rndalteem/ESP_OTA/main/ESP_FOTA_NEWLIB.ino.esp32.bin"
